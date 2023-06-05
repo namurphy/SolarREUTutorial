@@ -1,22 +1,21 @@
 # Solar REU Computing Tutorials: Days 1 & 2
 
-Welcome to SSXG and the CfA!
+Welcome to SSXG and the CfA! This is the repository for our first two computing tutorials, which will be on:
 
- - Tuesday, June 5 from 2–4 pm in Ops
- - Wednesday, June 6 from 2–4 pm in Ops
+ - Tuesday, June 5 from 2–4 pm in Mission Ops
+ - Wednesday, June 6 from 2–4 pm in Mission Ops
 
-To get to Ops, take the elevator behind the library all the way down to B,
-and go across the hall.
+To get to Mission Ops, take the elevator behind the library all the way down to B, and go across the hall.
+
+## Opening the tutorial via Google Colab
+
+We will be using Google Colab, so you will need to be logged into your CfA account or another Google account.
 
 To begin the tutorial, please go to the following link:
 
+**https://colab.research.google.com/github/namurphy/SolarREUTutorial/blob/main/SolarREUPython.ipynb**
 
-
-## Instructions
-
-There are a few options for getting set up for our tutorials.
-
-### Open a Binder environment in your browser (backup)
+## Open the tutorial via Binder (backup)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/namurphy/SolarREUTutorial/HEAD)
 ← use this link to automagically open a binder environment with all
@@ -29,7 +28,6 @@ notebooks (though you should be able to download them).
 
  - For the Unix part of the tutorial, go to the "Terminal"
  - For the Python part, go to "Python 3 (ipykernel)" under "Notebooks"
-
 
 ## License
 
