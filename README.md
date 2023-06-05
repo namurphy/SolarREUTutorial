@@ -9,13 +9,13 @@ Welcome to SSXG and the CfA!
 
 There are a few options for getting set up for our tutorials.
 
-### Open a Binder environment in your browser (quick but unreliable)
+### Open a Binder environment in your browser (quick, but less reliable)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/namurphy/SolarREUTutorial/HEAD)
 ← use this link to automagically open a binder environment with all
 the files in it and packages installed. It will take ≲ 5 minutes to
-initialize. However, this site has been unreliable lately because of
-limited capacity.
+initialize. However, this site has been somewhat unreliable lately because of
+limited capacity. Note that a session may time out due to inactivity.
 
 ### Open a Google Colab environment (quick but no access to terminal)
 
