@@ -17,24 +17,27 @@ There are a few options for getting set up for our tutorials.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/namurphy/SolarREUTutorial/HEAD)
 ← use this link to automagically open a binder environment with all
 the files in it and packages installed. It will take several minutes to
-initialize.  
+initialize. Note: Binder has had reduced liability lately because of 
+reduced capacity.
 
 A session may time out after inactivity, and it won't automatically save
 notebooks (though you should be able to download them).
 
-Note: Binder has had reduced liability lately because of reduced capacity.
-
- - For the Unix part of the tutorial, go to "
+ - For the Unix part of the tutorial, go to the "Terminal"
+ - For the Python part, go to "Python 3 (ipykernel)" under "Notebooks"
 
 ### Open a Google Colab environment (quick but no access to terminal)
 
 (will add shortly)
 
-### Install Python and download files (slow
+Note: Google Colab does not provide free access to a terminal.
 
-- Install Ana
+### Install Python and download files (requires installing software)
+
+- [Install Anaconda Navigator](https://docs.anaconda.com/free/navigator/install/)
 - Download the contents of this repository by going to the green code
-  button above and selecting "Download ZIP". Unzip the file and 
+  button above and selecting "Download ZIP".
+- Unzip the file in a convenient location like your Desktop or home directory.
 
 ## License
 
