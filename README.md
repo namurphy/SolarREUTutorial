@@ -2,8 +2,8 @@
 
 Welcome to SSXG and the CfA!
 
- - Tuesday, June 5 from 2–4 pm in Ops (Nick)
- - Wednesday, June 6 from 2–4 pm in Ops (Nick)
+ - Tuesday, June 5 from 2–4 pm in Ops
+ - Wednesday, June 6 from 2–4 pm in Ops
 
 ## Instructions
 
@@ -11,11 +11,19 @@ There are a few options for getting set up for our tutorials.
 
 ### Open a Binder environment in your browser (quick but unreliable)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/namurphy/SolarREUTutorial/HEAD) ← use this link to automagically open a binder environment with all the files in it and packages installed. It will take ≲ 5 minutes to initialize. However, this link has been unreliable lately because they recently had to limit capacity.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/namurphy/SolarREUTutorial/HEAD)
+← use this link to automagically open a binder environment with all
+the files in it and packages installed. It will take ≲ 5 minutes to
+initialize. However, this site has been unreliable lately because of
+limited capacity.
 
 ### Open a Google Colab environment (quick but no access to terminal)
 
-### Install Python and download files (
+(will add shortly)
+
+### Install Python and download files
+
+(will add shortly)
 
 ## License
 
